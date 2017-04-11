@@ -24,7 +24,7 @@ author:
   # picture: /assets/images/johndoe.png
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gitpash.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pavelluz
 github_username: gitpash
 
@@ -43,13 +43,17 @@ exclude:
 paginate: 10
 paginate_path: /page:num/
 
-Discuss
-  disqus:
-    shortname: pavelluz
+#Discuss
+disqus:
+  shortname: pavelluz
+
 defaults:
   - scope:
-      path: 'assets/images'
+      path: ''
     values:
-      image: true
-source:      ''
+      # image: true
+      comments: true
+source: ''
 destination: ../gitpash.github.io/
+repository: 'gitpash/gitpash.github.io'
+
