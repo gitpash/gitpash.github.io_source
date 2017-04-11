@@ -1,1 +1,1 @@
-# gitpush.github.io_folder
+# gitpash.github.io_folder

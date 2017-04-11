@@ -43,11 +43,13 @@ exclude:
 paginate: 10
 paginate_path: /page:num/
 
-#Discuss
-  # disqus:
-  #   shortname: pavelluz
+Discuss
+  disqus:
+    shortname: pavelluz
 defaults:
   - scope:
       path: 'assets/images'
     values:
       image: true
+source:      ''
+destination: ../gitpash.github.io/

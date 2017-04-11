@@ -2,7 +2,7 @@
 title: break-out-game
 layout: page
 ---
-Bilding this simple BreakOut game followed by nice MDN instructions, the game is dead-simple but somehow help me to understand some canvas basics and simple UI interactions.
+Building this simple BreakOut game followed by nice MDN instructions, the game is dead-simple but somehow help me to understand some canvas basics and simple UI interactions.
 
 
 <html>
