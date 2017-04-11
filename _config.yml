@@ -45,7 +45,7 @@ paginate_path: /page:num/
 
 #Discuss
 disqus:
-  shortname: pavelluz
+  shortname: this-blog
 
 defaults:
   - scope:
