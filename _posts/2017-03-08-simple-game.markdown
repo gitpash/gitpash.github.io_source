@@ -2,6 +2,10 @@
 title: break-out-game
 layout: page
 comments: true
+author:
+  name: Pavel Luzanov
+  twitter: pavelluz
+  # picture: /assets/images/johndoe.png
 ---
 Building this simple BreakOut game followed by nice MDN instructions, the game is dead-simple but somehow help me to understand some canvas basics and simple UI interactions.
 

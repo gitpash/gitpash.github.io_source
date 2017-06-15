@@ -1,0 +1,123 @@
+{
+  "basics": {
+    "name": "Pavel Luzanov",
+    "label": "Programmer",
+    "picture": "",
+    "email": "arklogin@gmail.com",
+    "phone": "(+7) 950 225-9125",
+    "website": "https://gitpash.github.io",
+    "summary": "Pavel starts from a small city on the north. Got his education as an engineer(high-voltage) and always been curious about technologies, however his path to programming  wasn't that simple. Education and learning new things is my favour, so development is a natural choice for that case.  ",
+    "location": {
+      "address": "19 Dzhambula str.",
+      "postalCode": "191180",
+      "city": "St. Petersburg",
+      "countryCode": "Russia",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "@pavelluz",
+        "url": "https://twitter.com/pavelluz"
+      },
+      {
+        "network": "GitHub",
+        "username": "gitpash",
+        "url": "https://github.com/gitpash"
+      },
+      {
+        "network": "Codepen",
+        "username": "pavelluz",
+        "url": "http://codepen.io/pavelluz/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "ArtDale",
+      "position": "modeller",
+      "website": "",
+      "startDate": "2016-06-01",
+      "endDate": "till today",
+      "summary": "Art-Studio ",
+      "highlights": [
+        "Building a plaster molding",
+        "All stages of stucco work "
+      ]
+    },
+    {
+      "company": "self-employment",
+      "position": "tourguide",
+      "website": "",
+      "startDate": "2012-09-01",
+      "endDate": "2016-03-19",
+      "summary": "Working with different touristic agencies in Thailand as a tour-leader.",
+      "highlights": [
+        "Fluent english",
+        "Stress-rifle(-ness)",
+        "Ability to manage groups of people"
+      ]
+    },
+    {
+      "company": "Irbis-spb",
+      "position": "Industrial alpinist ",
+      "website": "",
+      "startDate": "2010-09-01",
+      "endDate": "2011-05-23",
+      "summary": "Different types of industrial-construct tasks.",
+      "highlights": [
+        "Handle risk-bearing cases "
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Petrozavodsk State University",
+      "area": "Engineering",
+      "studyType": "Bachelor + specialization",
+      "startDate": "2003-09-01",
+      "endDate": "2008-06-01",
+      "gpa": "5.0",
+      "courses": [
+        "Python for Informatics"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript + ES6",
+        "React (basics)",
+        "Git",
+        "Webpack"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Russian",
+      "fluency": "Native speaker"
+    },
+      {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Travelling, books, fitness, chineese tea",
+      "keywords": [
+        "Cats",
+        "Zen and the Art of Motorcycle Maintenance"
+      ]
+    }
+  ],
+  "references": []
+}
